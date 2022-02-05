@@ -1,0 +1,45 @@
+.header-img img{
+	min-width: 50px;
+}
+
+body #navigation{
+	position: fixed;
+}
+
+body #banner{
+	height: 200px;
+	background-image: url('img/banner.png');
+}
+
+h1{
+	font-family: fantasy;
+	color: rgb(51, 97, 245);
+}
+
+body #portofolio{
+	padding-top: 50px;
+	height: 500px;
+	background-color: rgb(144, 170, 252);
+}
+
+img{
+	max-width: 100%;
+	min-width: 50%
+}
+
+body #contact{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	height: 300px;
+}
+
+body #footer{
+	height: 50px;
+	background-color: rgb(144, 170, 252);
+}
+
+#footer p{
+	padding-top: 10px;
+	text-align: center;
+}
+
